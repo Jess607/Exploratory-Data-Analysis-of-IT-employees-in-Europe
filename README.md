@@ -2,11 +2,11 @@
 This project is an EDA exploring the salaries of various IT employees in Europe with the objective of providing insights into how salaries vary based on location, type of company and position in company. 
 
 # Table Of Contents
-* [Installation](https://github.com/Jess607/Natural-gas-prediction#installation)
-* [About the Project](https://github.com/Jess607/Natural-gas-prediction#about-the-project)
-* [Data Gathering](https://github.com/Jess607/Natural-gas-prediction#data-gathering)
-* [File Description](https://github.com/Jess607/Natural-gas-prediction#file-description)
-* [Limitations](https://github.com/Jess607/Natural-gas-prediction#limitations)
+* [Installation](https://github.com/Jess607/Exploratory-Data-Analysis-of-IT-employees-in-Europe#installation)
+* [About the Project](https://github.com/Jess607/Exploratory-Data-Analysis-of-IT-employees-in-Europe#about-the-project)
+* [Data Gathering](https://github.com/Jess607/Exploratory-Data-Analysis-of-IT-employees-in-Europe#data-gathering)
+* [File Description](https://github.com/Jess607/Exploratory-Data-Analysis-of-IT-employees-in-Europe#file-description)
+* [Limitations](https://github.com/Jess607/Exploratory-Data-Analysis-of-IT-employees-in-Europe#limitations)
 
 # Installation 
 The code requires python versions of 3 and above and basic data wrangling knowledge using pandas and visualization using matplotlib and seaborn.
